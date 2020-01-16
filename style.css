@@ -19,8 +19,9 @@ body {
       rgba(62, 20, 20, 0.4),
       rgba(62, 20, 20, 0.4)
     ),
-    url(back.jpg);
-  background-size: cover;
+    url(images/grant-mccurdy-KOKxOB8550Q-unsplash.jpg);
+  /* Photo by Grant McCurdy on Unsplash */
+  background-size: unset;
   background-position: center;
   font-family: Lato;
   font-weight: 300;
